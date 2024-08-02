@@ -20,7 +20,7 @@ const NavbarItems: NavbarItem[] = [
     },
     {
         title: 'Products',
-        link: '/products',
+        link: '/',
         subLinks: [
             { title: 'SLASH', link: '/slash' },
             { title: 'VPN', link: '/vpn' }
@@ -28,7 +28,7 @@ const NavbarItems: NavbarItem[] = [
     },
     {
         title: 'Services',
-        link: '/services',
+        link: '/',
         subLinks: [
             { title: 'Web App Pentesting', link: '/web-app-pentesting' },
             { title: 'Mobile App Pentesting', link: '/mobile-app-pentesting' },
@@ -40,7 +40,7 @@ const NavbarItems: NavbarItem[] = [
     },
     {
         title: 'Compliance',
-        link: '/compliance',
+        link: '/',
         subLinks: [
             { title: 'GDPR Compliance', link: '/gdpr' },
             { title: 'SOC Compliance', link: '/soc' },
@@ -49,7 +49,7 @@ const NavbarItems: NavbarItem[] = [
     },
     {
         title: 'About',
-        link: '/about',
+        link: '/',
         subLinks: [
             { title: 'About Us', link: '/about-us' },
             { title: 'FAQ', link: '/faq' },
@@ -61,11 +61,11 @@ const NavbarItems: NavbarItem[] = [
     },
     {
         title: 'Blog',
-        link: '/blog'
+        link: '/'
     },
     {
         title: 'Contact',
-        link: '/contact',
+        link: '/',
         subLinks: [
             { title: 'Get Quote', link: '/get-quote' }
         ]
